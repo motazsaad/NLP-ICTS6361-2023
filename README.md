@@ -40,5 +40,5 @@ NLP-ICTS6361-2023
 # References 
 * ["Speech and Language Processing" by Dan Jurafsky and James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
 * [Stanford NLP course materials](http://web.stanford.edu/class/cs224n/)
-* [NLP Progress](https://github.com/motazsaad/NLP-progress)
+* [NLP Progress](https://github.com/sebastianruder/NLP-progress)
 * [DNN cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
