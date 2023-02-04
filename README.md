@@ -30,7 +30,7 @@ NLP-ICTS6361-2023
 •	NLP Project 30
 •	Final Exam 40
 
-#Textbooks
+# Textbooks
 * "Speech and Language Processing" by Dan Jurafsky and James H. Martin.
 * Jacob Eisenstein. Natural Language Processing
 * [Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning](https://www.deeplearningbook.org/)
@@ -41,3 +41,4 @@ NLP-ICTS6361-2023
 * ["Speech and Language Processing" by Dan Jurafsky and James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
 * [Stanford NLP course materials](http://web.stanford.edu/class/cs224n/)
 * [NLP Progress](https://github.com/motazsaad/NLP-progress)
+* [DNN cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
