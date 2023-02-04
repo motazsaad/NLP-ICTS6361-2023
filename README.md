@@ -4,31 +4,31 @@ NLP-ICTS6361-2023
 # Natural Language Processing Course 
 
 1.	Introduction to Natural Language Processing
- •	Overview of the field of NLP and its applications
- •	Understanding the challenges and limitations of NLP
+ *	Overview of the field of NLP and its applications
+ *	Understanding the challenges and limitations of NLP
 2.	Fundamentals of NLP
- •	Overview of the linguistic and computational foundations of NLP
- •	Key NLP tasks, including tokenization, stemming, and stopword removal
+ *	Overview of the linguistic and computational foundations of NLP
+ *	Key NLP tasks, including tokenization, stemming, and stopword removal
 3.	Text Representation
- •	Techniques for representing text data, including bag of words, TF-IDF, and word embeddings
- •	Overview of vector space models and semantic representations
+ *	Techniques for representing text data, including bag of words, TF-IDF, and word embeddings
+ *	Overview of vector space models and semantic representations
 4.	NLP Tasks and Applications
- •	Overview of common NLP tasks, including sentiment analysis, named entity recognition, and machine translation
+ *	Overview of common NLP tasks, including sentiment analysis, named entity recognition, and machine translation
 5.	Deep Learning for NLP
- •	Overview of deep learning approaches for NLP
- •	Understanding recurrent neural networks (RNNs), convolutional neural networks (CNNs), and transformers
+ *	Overview of deep learning approaches for NLP
+ *	Understanding recurrent neural networks (RNNs), convolutional neural networks (CNNs), and transformers
 6.	Advanced NLP Techniques
- •	Overview of advanced NLP techniques, including active learning, transfer learning, and unsupervised NLP
- •	Understanding recent developments in NLP, such as contextual representation models
+ *	Overview of advanced NLP techniques, including active learning, transfer learning, and unsupervised NLP
+ *	Understanding recent developments in NLP, such as contextual representation models
 7.	NLP in Practice
- •	Best practices for NLP model selection and evaluation
- •	Overview of NLP tools and libraries, including NLTK, spaCy, and PyTorch
+ *	Best practices for NLP model selection and evaluation
+ *	Overview of NLP tools and libraries, including NLTK, spaCy, and PyTorch
 
 
 ## Evaluation:
-•	Selected Papers Presentation 30
-•	NLP Project 30
-•	Final Exam 40
+*	Selected Papers Presentation 30
+*	NLP Project 30
+*	Final Exam 40
 
 # Textbooks
 * "Speech and Language Processing" by Dan Jurafsky and James H. Martin.
