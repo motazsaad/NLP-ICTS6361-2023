@@ -14,7 +14,6 @@ NLP-ICTS6361-2023
  •	Overview of vector space models and semantic representations
 4.	NLP Tasks and Applications
  •	Overview of common NLP tasks, including sentiment analysis, named entity recognition, and machine translation
- •	Applications of NLP in various domains, such as healthcare, finance, and customer service
 5.	Deep Learning for NLP
  •	Overview of deep learning approaches for NLP
  •	Understanding recurrent neural networks (RNNs), convolutional neural networks (CNNs), and transformers
@@ -24,8 +23,7 @@ NLP-ICTS6361-2023
 7.	NLP in Practice
  •	Best practices for NLP model selection and evaluation
  •	Overview of NLP tools and libraries, including NLTK, spaCy, and PyTorch
-8.	Final Project
- •	Applying the skills and knowledge learned in the course to complete a real-world NLP project
+
 
 ## Evaluation:
 •	Selected Papers Presentation 30
@@ -42,4 +40,4 @@ NLP-ICTS6361-2023
 # References 
 * ["Speech and Language Processing" by Dan Jurafsky and James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
 * [Stanford NLP course materials](http://web.stanford.edu/class/cs224n/)
-
+* [NLP Progress](https://github.com/motazsaad/NLP-progress)
