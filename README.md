@@ -35,10 +35,17 @@ NLP-ICTS6361-2023
 * Jacob Eisenstein. Natural Language Processing
 * [Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning](https://www.deeplearningbook.org/)
 * [Lewis Tunstall, Leandro von Werra, and Thomas Wolf. Natural Language Processing with Transformers](https://github.com/nlp-with-transformers/notebooks)
-* [Natural Language Processing with Python](https://www.nltk.org/book/)
 
 # References 
 * [Speech and Language Processing by Dan Jurafsky and James H. Martin.](https://web.stanford.edu/~jurafsky/slp3/)
 * [Stanford NLP course materials](http://web.stanford.edu/class/cs224n/)
-* [NLP Progress](https://github.com/sebastianruder/NLP-progress)
 * [DNN cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+
+
+# Python Libraries for NLP 
+* [Natural Language Processing with Python](https://www.nltk.org/book/)
+* [spaCy 101: Everything you need to know](https://spacy.io/usage/spacy-101)
+
+# NLP Papers review 
+* [NLP Progress](https://github.com/sebastianruder/NLP-progress)
+* [Arabic NLP Survey Papers Repository](https://github.com/iwan-rg/ArabicSurvey)
