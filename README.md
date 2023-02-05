@@ -49,3 +49,6 @@ NLP-ICTS6361-2023
 # NLP Papers review 
 * [NLP Progress](https://github.com/sebastianruder/NLP-progress)
 * [Arabic NLP Survey Papers Repository](https://github.com/iwan-rg/ArabicSurvey)
+
+# Arabic Corpora 
+* [ARABIC NLP DATA CATALOGUE](https://arbml.github.io/masader/)
